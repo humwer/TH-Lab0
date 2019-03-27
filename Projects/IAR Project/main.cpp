@@ -11,8 +11,7 @@
 * Support mail      : lgmzrk@gmail.com
 *
 * Target MCU        : MCU: Milandr 1986BE9x
-* Description       : Реализация конкатенации строк
-*                   : без использования сторонней библиотеки
+* Description       : String concatenation without special library.
 *
 ********************************************************************************/
 #include <stdlib.h>

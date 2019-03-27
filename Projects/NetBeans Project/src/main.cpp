@@ -1,3 +1,19 @@
+/*******************************************************************************
+*
+* Copyright (C) 2019 Mazurok Oleg - 735
+*
+* File              : main.cpp
+* Compiler          : IAR Embedded Workbench for ARM
+* Version           : 6.30.1.3142
+* Created File      : 11.03.2019
+* Last modified     : 11.03.2019
+*
+* Support mail      : lgmzrk@gmail.com
+*
+* Target MCU        : MCU: Milandr 1986BE9x
+* Description       : String concatenation without special library.
+*
+********************************************************************************/
 #include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
